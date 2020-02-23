@@ -1,0 +1,1 @@
+echo"project : %time% :%date%"
